@@ -1,0 +1,19 @@
+nav img{
+    width: 126px;
+    height: 35px; 
+}
+footer img{
+    width: 86px;
+    height: 25px; 
+}
+
+.backGold{
+    background-color: gold;
+}
+
+.robotoFont{
+    font-family: "Roboto", sans-serif;
+}
+.textDeco{
+    text-decoration: none;
+}
